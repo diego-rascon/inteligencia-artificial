@@ -2,4 +2,5 @@ notebook
 numpy
 matplotlib
 jupyter_contrib_nbextensions
+pandas
 # jedi ipython
